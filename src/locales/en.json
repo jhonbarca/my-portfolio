@@ -3,5 +3,9 @@
   "welcome": "Welcome to my portfolio",
   "about": "About Me",
   "projects": "Projects",
-  "contact": "Contact"
+  "contact": "Contact",
+  "portfolioTitle": "My Portfolio",
+  "about_text": "I'm a full stack developer passionate about technology and innovation.",
+  "projects_text": "Here are some projects I've built for clients and personal learning.",
+  "contact_text": "You can contact me via email, social media or by filling out the contact form."
 }

@@ -1,12 +1,10 @@
 import Layout from "./components/Layout";
-import { useLanguage } from "./context/LanguageContext";
+import Home from "./pages/Home";
 
 function App() {
-  const { t } = useLanguage();
-
   return (
     <Layout>
-      <h2 className="text-2xl font-semibold">{t("welcome")}</h2>
+      <Home />
     </Layout>
   );
 }
